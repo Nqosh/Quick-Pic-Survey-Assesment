@@ -1,0 +1,30 @@
+[
+
+  {
+    "Description": "Internal Meetings"
+  },
+  {
+    "Description": "Client Meetings"
+  },
+  {
+    "Description": "Emails & Phone/Skype calls"
+  },
+  {
+    "Description": "DB Design"
+  },
+  {
+    "Description": "Architecture Design and Planning "
+  },
+  {
+    "Description": "Back-end Development"
+  },
+  {
+    "Description": "Front-end Development"
+  },
+  {
+    "Description": "Integration"
+  },
+  {
+    "Description": "Testing"
+  }
+]

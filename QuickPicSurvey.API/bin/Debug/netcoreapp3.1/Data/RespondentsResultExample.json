@@ -1,0 +1,21 @@
+[
+  {
+    "RespondentId": 1,
+    "QuestionId": 1,
+    "RespondentsWeight": 8
+
+  },
+  {
+    "RespondentId": 2,
+    "QuestionId": 2,
+    "RespondentsWeight": 5
+
+  },
+  {
+    "RespondentId": 3,
+    "QuestionId": 5,
+    "RespondentsWeight": 8
+
+  }
+
+]

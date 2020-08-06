@@ -1,0 +1,53 @@
+﻿@model IEnumerable<QuickPic_Survey_Spa.Models.AdminRespondentResult>
+
+@{
+    ViewBag.Title = "Survey Results";
+}
+
+    <h3 style="color:red;">Survey Results</h3>
+
+
+<table class="table table-striped">
+    <tr>
+        
+        <th>
+            <h4>Question</h4>
+        </th>
+        <th>
+            <h4>Respondents Weight</h4>
+        </th>
+        <th>
+            <h4>Expectation Gap</h4>
+        </th>
+        <th>
+            <h4>Accuracy</h4>
+        </th>
+        <th>
+            <h4>Managers Weight</h4>
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+      
+        <td>
+            @Html.DisplayFor(modelItem => item.Description)
+        </td>   
+        <td>
+            @Html.DisplayFor(modelItem => item.RespondentsWeight)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ExpectationGap)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Accuracy)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Expectation)
+        </td>
+    </tr>
+    
+}
+
+</table>

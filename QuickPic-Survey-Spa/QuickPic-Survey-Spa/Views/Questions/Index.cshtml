@@ -1,0 +1,41 @@
+﻿@model IEnumerable<QuickPic_Survey_Spa.Models.Question>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<form action="" method="post">
+    <table class="table">
+        <tr>
+            <th>
+                <h3 style="color:red"><b>Focus Area</b></h3>
+            </th>
+            <th>
+                <h3 style="color:red"><b>Weight</b></h3>
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    @Html.TextBox("Weight", null, new { @class = "form-control" })
+                </td>
+
+            </tr>
+        }
+        <tr>
+        </tr>
+
+    </table>
+    <div style="float:none;">
+        <input type="submit" style="width:100px;" value="Save" name="action:Save" />
+    </div>
+   
+</form>

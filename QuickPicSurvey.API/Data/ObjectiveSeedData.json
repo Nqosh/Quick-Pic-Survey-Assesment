@@ -1,0 +1,54 @@
+[
+  {
+    "Question": "Internal Meetings",
+    "Expectation": 8,
+    "QuestionID":  0
+
+  },
+  {
+    "Question": "Client Meetings",
+    "Expectation": 8,
+    "QuestionID": 0
+
+  },
+  {
+    "Question": "Emails & Phone/Skype calls",
+    "Expectation": 5,
+    "QuestionID": 0
+  },
+  {
+    "Question": "Research",
+    "Expectation": 5,
+    "QuestionID": 0
+  },
+  {
+    "Question": "DB Design",
+    "Expectation": 2,
+    "QuestionID": 0
+  },
+  {
+    "Question": "Architecture Design and Planning",
+    "Expectation": 5,
+    "QuestionID": 0
+  },
+  {
+    "Question": "Back-end Development",
+    "Expectation": 30,
+    "QuestionID": 0
+  },
+  {
+    "Question": "Front-end Development",
+    "Expectation": 22,
+    "QuestionID": 0
+  },
+  {
+    "Question": "Integration",
+    "Expectation": 5,
+    "QuestionID": 0
+  },
+  {
+    "Question": "Testing",
+    "Expectation": 10,
+    "QuestionID": 0
+  }
+]

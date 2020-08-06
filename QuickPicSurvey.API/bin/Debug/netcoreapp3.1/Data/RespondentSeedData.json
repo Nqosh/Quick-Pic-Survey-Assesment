@@ -1,0 +1,39 @@
+[
+
+  {
+    "Username": "Admin",
+    "Firstname": "Nqobile",
+    "Surname": "Moyo",
+    "Password": "password"
+  },
+  {
+    "Username": "u1",
+    "Firstname": "John",
+    "Surname": "Smith",
+    "Password": "password"
+  },
+  {
+    "Username": "u2",
+    "Firstname": "Susan",
+    "Surname": "Birnam",
+    "Password": "password"
+  },
+  {
+    "Username": "u3",
+    "Firstname": "Carter",
+    "Surname": "Flamings",
+    "Password": "password"
+  },
+  {
+    "Username": "u4",
+    "Firstname": "Elrond",
+    "Surname": "Raven",
+    "Password": "password"
+  },
+  {
+    "Username": "u5",
+    "Firstname": "Frodo",
+    "Surname": "Smitherns",
+    "Password": "password"
+  }
+]

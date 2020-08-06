@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickPic-Survey-Spa", "QuickPic-Survey-Spa\QuickPic-Survey-Spa.csproj", "{48409172-2606-4ACE-8435-7367EEDFD2AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48409172-2606-4ACE-8435-7367EEDFD2AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48409172-2606-4ACE-8435-7367EEDFD2AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48409172-2606-4ACE-8435-7367EEDFD2AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48409172-2606-4ACE-8435-7367EEDFD2AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A641AA8F-449E-4893-B2C8-767862BF24F2}
+	EndGlobalSection
+EndGlobal
